@@ -1,34 +1,54 @@
-# DP-900 Study Topics
+# DP-900 Study Topics (Course TOC)
 
 ## Core Data Concepts
 
-* Descriptive vs predictive vs prescriptive vs diagnostic vs cognitive analytics
-* Normalization
-* ETL vs ELT
-* Batch vs stream processing
-* JSON vocabulary (nesting, arrays)
-* data warehouse vocabulary
-    * Snowflake data model
-    * Dimension vs fact tables
+* Data processing solutions
+    * OLTP
+        * ACID
+    * OLAP
+* Deployment
+    * IaaS, PaaS, SaaS
+    * ARM templates
+* Processing types
+    * Batch processing
+    * Stream processing
 * Tools
-    * Azure Data Studio
+    * Data Studio
     * SSMS
+    * Power BI
     * SQL Server Data Tools
     * MySQL Workbench
-* IaaS vs PaaS
-* AAA
-* Encryption
-* OLTP vs OLAP
-* ARM templates
+* Format
+    * JSON
+
+## Non-Relational Data
+
+* Cosmos DB
+    * Database, container, item
+    * Multiple read replicas
+    * Consistency levels
+        * CAP
+    * APIs (when to choose which)
+    * Throughput
+    * Partition key
 
 ## Relational Data
 
-* Clustered index
-* Strong consistency guarantees
-* Keys and table relationships
-* Views and stored procedures
-* Basic SQL syntax
-* Azure CLI access
+* Database choices
+    * Azure SQL
+        * Elastic pool
+    * Managed instance
+        * Cross-DB queries and TX
+    * Azure MySQL, MariaDB, PostgreSQL
+* DB design
+    * Keys and relationships
+    * Normalization
+    * Clustered index
+    * Views and stored procedures
+    * Strong consistency guarantees
+* Access
+    * Basic SQL syntax
+    * Azure CLI access
 * Azure SQL Database
     * Managed backup
     * HA
@@ -37,22 +57,14 @@
     * TDE
     * Resource firewall
     * Geo-replication
-* Managed Instance
-    * Cross-DB queries and transactions
-
-## Non-Relational Data
-
-* Cosmos DB
-    * Database, container, item
-    * Multiple read replicas
-    * APIs (when to choose which)
-        * Which container type is projected
-    * Throughput
-    * Partition key
-    *
 
 ## Data Analytics
 
+* Analytics types
+    * Diagnostic
+    * Descriptive
+    * Predictive
+    * Cognitive
 * Data Lake Storage
     * Hierarchical namespace
     * Cross-region data access pricing
@@ -63,11 +75,16 @@
     * Queue
     * File
     * Replication options
-* Streaming vs batch processing
 * Synapse Analytics
     * Pause pool
     * PolyBase
+    * ETL vs ELT
+* Data warehouse vocabulary
+    * Snowflake data model
+    * Dimension vs fact tables
 * Big Data
+    * Synapse
+        * PolyBase
     * HDInsight
     * Databricks
     * Azure Analysis Services
