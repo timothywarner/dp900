@@ -24,18 +24,19 @@
 ## Non-Relational Data
 
 * Cosmos DB
-    * Database, container, item
+    * APIs
+        * When to choose
+        * Resource models
     * Multiple read replicas
     * Consistency levels
         * CAP
-    * APIs (when to choose which)
     * Throughput
     * Partition key
 
 ## Relational Data
 
 * Database choices
-    * Azure SQL
+    * Azure SQL Database
         * Elastic pool
     * Managed instance
         * Cross-DB queries and TX
@@ -75,13 +76,13 @@
     * Queue
     * File
     * Replication options
+* Data warehouse vocabulary
+    * Snowflake data model
+    * Dimension vs fact tables
 * Synapse Analytics
     * Pause pool
     * PolyBase
     * ETL vs ELT
-* Data warehouse vocabulary
-    * Snowflake data model
-    * Dimension vs fact tables
 * Big Data
     * Synapse
         * PolyBase
@@ -98,4 +99,3 @@
         * Data sources
     * Visualizations
     * Report Builder
-    *
