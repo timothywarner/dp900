@@ -3,61 +3,66 @@
 ## Core Data Concepts
 
 * Data processing solutions
-    * OLTP
-        * ACID
-    * OLAP
+  * OLTP
+    * ACID
+  * OLAP
 * Deployment
-    * IaaS, PaaS, SaaS
-    * ARM templates
+  * IaaS, PaaS, SaaS
+  * ARM templates
 * Processing types
-    * Batch processing
-    * Stream processing
+  * Batch processing
+  * Stream processing
 * Tools
-    * Data Studio
-    * SSMS
-    * Power BI
-    * SQL Server Data Tools
-    * MySQL Workbench
+  * Data Studio
+  * SSMS
+  * Power BI
+  * SQL Server Data Tools
+  * MySQL Workbench
 * Format
-    * JSON
+  * JSON
 
 ## Non-Relational Data
 
 * Cosmos DB
-    * APIs
-        * When to choose
-        * Resource models
+  * APIs
+    * When to choose
+    * Resource models
     * Multiple read replicas
     * Consistency levels
-        * CAP
+  * CAP
     * Throughput
     * Partition key
 
 ## Relational Data
 
 * Database choices
-    * Azure SQL Database
-        * Elastic pool
-    * Managed instance
-        * Cross-DB queries and TX
-    * Azure MySQL, MariaDB, PostgreSQL
+  * Azure SQL Database
+    * Elastic pool
+  * Managed instance
+    * Cross-DB queries and TX
+  * Azure MySQL, MariaDB, PostgreSQL
 * DB design
-    * Keys and relationships
-    * Normalization
-    * Clustered index
-    * Views and stored procedures
-    * Strong consistency guarantees
+  * Keys and relationships
+  * Normalization
+  * Clustered index
+  * Views and stored procedures
+  * Strong consistency guarantees
 * Access
-    * Basic SQL syntax
-    * Azure CLI access
+  * Basic SQL syntax
+  * Azure CLI access
 * Azure SQL Database
-    * Managed backup
-    * HA
-    * ATP
-    * HUB licenses
-    * TDE
+  * Managed backup
+  * HA
+  * ATP
+  * HUB licenses
+  * TDE
     * Resource firewall
     * Geo-replication
+
+
+
+
+
 
 ## Data Analytics
 
