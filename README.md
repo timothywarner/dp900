@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/timothywarner/dp900">
     <!-- Please provide path to your logo here -->
-    <img src="docs/images/dp900-cover.png" alt="Logo" width="300" height="300">
+    <img src="docs/images/dp900-cover.png" alt="Logo" width="300" />
   </a>
 </h1>
 
