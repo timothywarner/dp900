@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/timothywarner/dp900">
     <!-- Please provide path to your logo here -->
-    <img src="docs/images/logo.svg" alt="Logo" width="100" height="100">
+    <img src="docs/images/dp900-cover.png" alt="Logo" width="300" height="300">
   </a>
 </h1>
 
@@ -33,10 +33,6 @@
 
 - [About](#about)
   - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Support](#support)
 - [Project assistance](#project-assistance)
@@ -63,26 +59,14 @@
 
 ### Built With
 
-> **[?]**
-> Please provide the technologies that are used in the project.
-
-## Getting Started
-
-### Prerequisites
-
-> **[?]**
-> What are the project requirements/dependencies?
-
-### Installation
-
-> **[?]**
-> Describe how to install and get started with the project.
-
-## Usage
-
-> **[?]**
-> How does one go about using it?
-> Provide various use cases and code examples here.
+> Microsoft Azure
+> PowerPoint
+> Visual Studio Code
+> Azure Data Studio
+> Azure Storage Explorer
+> PowerShell
+> Azure CLI
+> SQL Server Management Studio
 
 ## Roadmap
 
