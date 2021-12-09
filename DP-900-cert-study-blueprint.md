@@ -25,9 +25,8 @@
 
 ## Worthwhile Demos/Tutorials
 
-
-
-
+* [Microsoft Learning GitHub labs](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals)
+* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/azure-data-fundamentals-explore-core-data-concepts/)
 
 ## Practice exams
 
@@ -41,3 +40,5 @@
 * [Tim's Online Testing video](https://www.youtube.com/watch?v=myf6r5nulj0&feature=youtu.be)
 * [Microsoft exam policies](https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies)
 * [Microsoft exam offers](https://docs.microsoft.com/en-us/learn/certifications/deals)
+* P[earson VUE support](https://home.pearsonvue.com/microsoft/contact)
+* [Micosoft Learn blog](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog)
