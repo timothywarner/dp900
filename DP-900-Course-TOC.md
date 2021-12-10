@@ -36,6 +36,7 @@
 ## Relational Data
 
 * Database choices
+  * MySQL
   * Azure SQL Database
     * Elastic pool
   * Managed instance
@@ -58,49 +59,20 @@
   * TDE
     * Resource firewall
     * Geo-replication
-
-
-
-
-
+* Streaming data
+  * Stream Analytics
 
 ## Data Analytics
 
 * Analytics types
-    * Diagnostic
-    * Descriptive
-    * Predictive
-    * Cognitive
-* Data Lake Storage
-    * Hierarchical namespace
-    * Cross-region data access pricing
-* Storage account services
-    * Blob service
-        * Tiering
-    * Table
-    * Queue
-    * File
-    * Replication options
-* Data warehouse vocabulary
-    * Snowflake data model
-    * Dimension vs fact tables
-* Synapse Analytics
-    * Pause pool
-    * PolyBase
-    * ETL vs ELT
-* Big Data
-    * Synapse
-        * PolyBase
-    * HDInsight
-    * Databricks
-    * Azure Analysis Services
-* Azure Data Factory
-    * Triggered pipeline execution
-    * Common activity types (control flow, data movement, transformation)
-    * Linked service
+  * Diagnostic
+  * Descriptive
+  * Predictive
+  * Cognitive
+
 * Power BI
-    * Reports
-    * Dashboards
-        * Data sources
-    * Visualizations
-    * Report Builder
+  * Reports
+  * Dashboards
+  * Data sources
+  * Visualizations
+  * Report Builder
