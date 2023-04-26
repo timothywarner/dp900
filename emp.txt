@@ -1,3 +1,0 @@
-FirstName,LastName
-John,Doe
-Jane,Doe

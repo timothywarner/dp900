@@ -1,4 +1,4 @@
-# Exam DP-900 Microsoft Azure Data Fundamentmals Certification Study Blueprint
+# Exam DP-900 Microsoft Azure Data Fundamentals Certification Study Blueprint
 
 ## Theoretical Knowledge
 
@@ -30,15 +30,17 @@
 
 ## Practice exams
 
-* [MeasureUp DP-900](https://www.measureup.com/dp-900-microsoft-azure-data-fundamentals.html)
-* [Whizlabs DP-900](https://www.whizlabs.com/microsoft-azure-certification-dp-900/)
+* [Microsoft free certification assessments](https://learn.microsoft.com/certifications/practice-assessments-for-microsoft-certifications)
+* [MeasureUp DP-900 practice tests](https://www.measureup.com/dp-900-microsoft-azure-data-fundamentals.html)
+* [Whizlabs DP-900 practice tests](https://www.whizlabs.com/microsoft-azure-certification-dp-900/)
+* [Udemy DP-900 practice tests](https://www.udemy.com/course/azure-dp-900-practice-test-prep-exam/)
 
 ## About the exam
 
 * [DP-900 exam page](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900)
 * [Pearson VUE Microsoft](https://home.pearsonvue.com/Clients/Microsoft.aspx)
-* [Tim's Online Testing video](https://www.youtube.com/watch?v=myf6r5nulj0&feature=youtu.be)
+* [Tim's online testing video](https://www.youtube.com/watch?v=myf6r5nulj0&feature=youtu.be)
 * [Microsoft exam policies](https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies)
 * [Microsoft exam offers](https://docs.microsoft.com/en-us/learn/certifications/deals)
-* P[earson VUE support](https://home.pearsonvue.com/microsoft/contact)
+* [Pearson VUE support](https://home.pearsonvue.com/microsoft/contact)
 * [Micosoft Learn blog](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog)
